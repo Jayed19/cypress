@@ -1,0 +1,19 @@
+Step1: Download node JS version 14 (Got problem for setup cypress on version 18). CMD: node -v >> 14  and npm -v >> 6
+Step2: Open VS Code and create a folder. Inside this folder CMD: npm init -y
+Step3: Inside this folder CMD: npm install cypress >> cypress 12 version will be setup
+Step4: 
+
+PS C:\Users\hp\Desktop\Cypress\CypressProject> npx cypress -v
+Cypress package version: 12.0.2
+Cypress binary version: 12.0.2
+Electron version: 21.0.0
+Bundled Node version:
+16.16.0
+
+Step5: CMD: npx cypress verify
+
+✔  Verified Cypress! C:\Users\hp\AppData\Local\Cypress\Cache\12.0.2\Cypress
+
+Step6: npx cypress open
+
+Step7: Choose E2E testing or Component Testing

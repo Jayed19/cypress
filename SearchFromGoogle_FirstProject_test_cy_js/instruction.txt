@@ -1,0 +1,1 @@
+copy this test.cy.js file to your cypress/e2e/ this directory.
