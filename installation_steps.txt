@@ -1,5 +1,5 @@
 Step1: Download node JS version 14 (Got problem for setup cypress on version 18). CMD: node -v >> 14  and npm -v >> 6
-Step2: Open VS Code and create a folder. Inside this folder CMD: npm init -y
+Step2: Open VS Code and create a folder(folder name should not 'cypress'). Inside this folder CMD: npm init -y
 Step3: Inside this folder CMD: npm install cypress >> cypress 12 version will be setup
 Step4: 
 
